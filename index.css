@@ -1,0 +1,24 @@
+button{
+    padding:20px;
+    border-radius:15px;
+    border:none;
+    background-color:hotpink;
+    margin:10px;
+    font-size:15px;}
+    .box-size{
+    height:550px;
+    width:550px;
+    margin:auto;
+    border-radius:15px;
+    border:2px solid red;}
+        .grid-container {
+     display: grid;
+     grid-template-columns: auto auto auto ;
+   }
+   #inp{width:80%;
+   border:2px solid pink;
+   outline:none;
+   border-radius:15px;
+   padding:15px;
+   margin-left:15px;
+   margin-top:5px;}
